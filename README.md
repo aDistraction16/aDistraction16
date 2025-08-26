@@ -30,7 +30,7 @@ I take pride in writing clean, maintainable code and thrive in collaborative, in
 ## 👨‍💻 Projects
 
 ### BlogSpace: Full-Stack Blog Platform
-[GitHub Repo](https://github.com/juandc/blog-platform)
+[GitHub Repo]([https://github.com/juandc/blog-platform](https://github.com/aDistraction16/Full-Stack-Blog-BlogSpace-))
 - Multi-user blogging platform with full CRUD for posts and comments
 - Built with Django (backend) + ReactJS (frontend) + JWT Auth
 - REST API endpoints via Django REST Framework
