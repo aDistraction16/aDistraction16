@@ -37,7 +37,7 @@ I take pride in writing clean, maintainable code and thrive in collaborative, in
 - Responsive design for mobile/desktop & basic SEO
 
 ### Real-Time Weather Data Pipeline with Power BI Dashboard  
-[GitHub Repo](https://github.com/) <!-- Add your actual repo link -->
+[GitHub Repo]([https://github.com/](https://github.com/aDistraction16/Real-Time-Weather-Data-Pipeline-with-Power-BI-Dashboard))
 - Automated Python pipeline fetching real-time weather from OpenWeatherMap API
 - Parses, processes, and stores data in SQL Server using pyodbc
 - Robust error handling & automated scheduling
