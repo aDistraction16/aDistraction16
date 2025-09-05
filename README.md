@@ -17,10 +17,10 @@ I enjoy tackling challenging problems and take pride in writing clean, scalable,
 | Category         | Technologies & Skills                                                              |
 | :--------------- | :--------------------------------------------------------------------------------- |
 | **Frontend** | React 18, TypeScript, JavaScript, HTML5, CSS3, Material-UI, React Hook Form, TanStack Query |
-| **Backend** | Node.js, Express.js, RESTful APIs, Session-based Authentication                        |
+| **Backend** | Node.js, Express.js, RESTful APIs, Session-based Authentication, Python, Django       |
 | **Database** | PostgreSQL, Drizzle ORM, SQL                                                       |
 | **Integrations** | Stripe API, SendGrid API, Hugging Face API (AI/ML), PDF Generation (PDFKit)           |
-| **Tools** | Git, GitHub, Docker, Postman                                                       |
+| **Tools** | Git, GitHub, Docker, Postman, Power BI                                                       |
 
 ---
 
