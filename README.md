@@ -1,23 +1,26 @@
 # 👋 Hi, I'm Maverick Adrian L. Barroso
 
-**Python Developer | Full-Stack Engineer | Data Pipeline Enthusiast**  
-Davao City, Philippines
+**Full-Stack Developer | React | Node.js | TypeScript | Python | Django** Davao City, Philippines
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate and detail-oriented Python developer specializing in building and deploying full-stack web applications and automated data pipelines. With hands-on experience in Django, React, and various database systems, I love crafting scalable solutions that solve real-world problems.  
-I take pride in writing clean, maintainable code and thrive in collaborative, innovative teams.
+I'm a full-stack developer passionate about building modern, high-quality web applications from concept to deployment. My expertise is in the **React, Node.js, and TypeScript** ecosystem, and I have hands-on experience on **Python, Django, Power BI**.
+
+I enjoy tackling challenging problems and take pride in writing clean, scalable, and maintainable code. I thrive in collaborative environments and am always eager to learn from senior engineers and expand my technical expertise.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, SQL, HTML5, CSS3, JavaScript  
-**Frameworks & Libraries:** Django, Django REST Framework (DRF), ReactJS, JWT Auth, Requests, Pyodbc, Axios  
-**Databases:** PostgreSQL, MySQL, SQLite, SQL Server  
-**Tools & Technologies:** Git, GitHub, REST APIs, Power BI, venv
+| Category         | Technologies & Skills                                                              |
+| :--------------- | :--------------------------------------------------------------------------------- |
+| **Frontend** | React 18, TypeScript, JavaScript, HTML5, CSS3, Material-UI, React Hook Form, TanStack Query |
+| **Backend** | Node.js, Express.js, RESTful APIs, Session-based Authentication                        |
+| **Database** | PostgreSQL, Drizzle ORM, SQL                                                       |
+| **Integrations** | Stripe API, SendGrid API, Hugging Face API (AI/ML), PDF Generation (PDFKit)           |
+| **Tools** | Git, GitHub, Docker, Postman                                                       |
 
 ---
 
@@ -35,6 +38,19 @@ I take pride in writing clean, maintainable code and thrive in collaborative, in
 - Built with Django (backend) + ReactJS (frontend) + JWT Auth
 - REST API endpoints via Django REST Framework
 - Responsive design for mobile/desktop & basic SEO
+
+### InvoiceFlow Pro | Client Invoice & Payment Portal
+[GitHub Repo](https://github.com/aDistraction16/client-invoice-management-portal)
+- A full-stack solution for client and invoice management built with **React, TypeScript, and Node.js**[cite: 13].
+- Features secure payment processing via **Stripe API**, automated email notifications with **SendGrid**, and professional **PDF invoice generation**[cite: 15, 17].
+- Utilizes **PostgreSQL** with **Drizzle ORM** for efficient, type-safe database operations[cite: 16].
+
+### AI-Powered Content Generator & Scheduler
+[GitHub Repo](https://github.com/aDistraction16/ai-content-generator)
+- A full-stack application that leverages the **Hugging Face AI API** to generate and schedule social media content[cite: 19].
+- Built with the MERN stack (**React, Node.js, Express.js**) and **TypeScript**, featuring a clean, responsive UI with Material-UI[cite: 20, 21].
+- Includes a PDF reporting feature for generating detailed analytics with charts and performance insights[cite: 22].
+
 
 ### Real-Time Weather Data Pipeline with Power BI Dashboard  
 [GitHub Repo](https://github.com/aDistraction16/Real-Time-Weather-Data-Pipeline-with-Power-BI-Dashboard)
@@ -65,7 +81,7 @@ Ateneo de Davao University (2020–2025) | Davao City, Philippines
 ## 🤝 Connect with Me
 
 - 📧 Email: maverickadrianbarroso@gmail.com
-- [LinkedIn](https://linkedin.com/in/) <!-- Add your LinkedIn username -->
+- [LinkedIn](https://www.linkedin.com/in/maverickadrianbarroso/)
 - [GitHub](https://github.com/aDistraction16)
 
 ---
