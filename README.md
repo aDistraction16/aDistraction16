@@ -17,7 +17,7 @@ My background in full-stack development gives me a unique ability to not only fi
 | Category         | Technologies & Skills                                                              |
 | :--------------- | :--------------------------------------------------------------------------------- |
 | **Data Analysis & Machine Learning** | Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn |
-| **Databases & Business Intelligence** | SQL, PostgreSQL, SQLite, Power BI, Excel (Advanced Analysis, PivotTables, Dashboards) |
+| **Spreadsheet & Business Intelligence** | Excel (Advanced Formulas, PivotTables, Power Query, VBA, Statistical Analysis, Data Modeling), Power BI, SQL, PostgreSQL, SQLite |
 | **Web & Deployment Technologies** | Streamlit, Python (Django), Node.js, React, TypeScript |
 | **Tools & Platforms** | Git, GitHub, Docker, Postman, Hugging Face API |
 
