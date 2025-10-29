@@ -39,7 +39,7 @@ I have organized my projects into two main categories: **Data Analysis** (focuse
 [GitHub Repo](https://github.com/aDistraction16/Marketing-Campaign-ROI-Analysis)
 - Solved a real-world messy data problem by cleaning and merging a marketing manager's messy Excel file with an internal SQL database
 - Used this hybrid workflow to calculate the true ROAS for paid campaigns, uncovering critical attribution errors
-- Delivered actionable insights that improved campaign performance by 25%
+- Delivered actionable insights, identifying critical attribution errors and **opportunities to improve ROAS by 25%** by re-allocating budget.
 
 ### Sales Performance Dashboard
 [GitHub Repo](https://github.com/aDistraction16/Sales-Performance-Dashboard)
@@ -51,7 +51,7 @@ I have organized my projects into two main categories: **Data Analysis** (focuse
 [GitHub Repo](https://github.com/aDistraction16/E-commerce-Purchase-Funnel-Analysis)
 - Analyzed a user event log dataset to construct a multi-stage purchase funnel
 - Used **Plotly** and **Excel** to visualize conversion rates and identify the single biggest drop-off point in the user journey
-- Recommendations led to 15% improvement in overall conversion rate
+- Identified the single biggest drop-off point, providing a recommendation **projected to improve conversion by 15%**.
 
 ### A/B Test Analysis for a Marketing Campaign
 [GitHub Repo](https://github.com/aDistraction16/A-B-Test-Analysis-for-Marketing-Campaign)
@@ -77,7 +77,7 @@ I have organized my projects into two main categories: **Data Analysis** (focuse
 [GitHub Repo](https://github.com/aDistraction16/Online-Retail-Customer-Segmentation)
 - Performed **RFM Analysis** (Recency, Frequency, Monetary) to engineer features from a raw SQL database
 - Applied **K-Means Clustering** to segment customers into distinct groups for targeted marketing
-- Delivered customer personas and marketing strategies that increased customer lifetime value
+- Delivered customer personas and marketing strategies **designed to increase** customer lifetime value.
 
 ### Health Insurance Cost Predictor
 [GitHub Repo](https://github.com/aDistraction16/Health-Insurance-Cost-Predictor)
